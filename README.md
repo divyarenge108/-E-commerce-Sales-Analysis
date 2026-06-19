@@ -1,8 +1,9 @@
 ##**📊 Madhav E-commerce Sales Analysis — Power BI Dashboard**
 
+
 An interactive Power BI dashboard analyzing e-commerce sales data, covering revenue, profit, customer behavior, payment modes, and category-wise performance.
 
-###**🔍 Overview**
+###**🔍 Overview**  
 This project analyzes order and transaction-level data from an e-commerce business to surface key insights on sales performance, profitability, customer trends, and regional distribution. The dashboard is fully interactive with quarter and state-level filters.
 
 ###**📁 Project Files**  
@@ -24,13 +25,13 @@ This project analyzes order and transaction-level data from an e-commerce busine
 ###**🧩 Dashboard Features**  
 
 -**KPI Cards:** Quantity, AOV, Profit, and Sales Amount at a glance  
--**Profit by Month:** Trend of monthly profit/loss across the year  
--**Sum of Amount by State:** Geographic sales distribution  
--**Sum of Quantity by Category:** Breakdown across Electronics, Furniture, and Clothing  
--**Sum of Quantity by Payment Mode:** COD, UPI, EMI, Credit Card, Debit Card split  
--**Sum of Amount by Customer:** Top customers by revenue  
--**Sum of Profit by Sub-Category:** Best and worst performing sub-categories  
--**Slicers:** Filter by Quarter (Qtr 1–4) and State  
+**1. Profit by Month:** Trend of monthly profit/loss across the year  
+**2. Sum of Amount by State:** Geographic sales distribution  
+**3. Sum of Quantity by Category:** Breakdown across Electronics, Furniture, and Clothing  
+**4. Sum of Quantity by Payment Mode:** COD, UPI, EMI, Credit Card, Debit Card split  
+**5. Sum of Amount by Customer:** Top customers by revenue  
+**6. Sum of Profit by Sub-Category:** Best and worst performing sub-categories  
+**7. Slicers:** Filter by Quarter (Qtr 1–4) and State  
 
 ###**🛠️ Tools Used**   
 **1. Power BI Desktop —** data modeling, DAX measures, visualization  
